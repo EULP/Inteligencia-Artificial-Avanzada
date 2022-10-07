@@ -1,0 +1,394 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=windows-1252">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://tpc.googlesyndication.com">
+<link rel="preconnect" href="https://googleads.g.doubleclick.net">
+<link rel="preconnect" href="https://adservice.google.com">
+<link rel="preconnect" href="https://www.googletagservices.com">
+<link rel="preload" as="image" href="/images/logo-up2016.png"><link rel="preload" href="/img/opensans.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="/img/fontawesome4.5.woff2" as="font" type="font/woff2" crossorigin="anonymous"><title>Catálogo de Actividades Comerciales - InfoEmpresa</title>
+<meta name="description" content="Catálogo completo de las empresas del Perú según su actividad comercial">
+<meta property="fb:admins" content="727542943">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link type="application/rss+xml" rel="alternate" title="Todas las Actualizaciones" href="https://www.universidadperu.com/noticiasuniversidad.xml"><link type="application/rss+xml" rel="alternate" title="Recomendado: Agenda, Articulos y Blog" href="https://www.universidadperu.com/noticiasuniversidadvip.xml"><link type="application/rss+xml" rel="alternate" title="El Blog" href="https://www.universidadperu.com/rssblog.xml"><link type="application/rss+xml" rel="alternate" title="Agenda de Eventos" href="https://www.universidadperu.com/rssagenda.xml"><link type="application/rss+xml" rel="alternate" title="Bolsa de Trabajo" href="https://www.universidadperu.com/rsstrabajo.xml">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.universidadperu.com/empresas/categorias.php">
+<link rel="canonical" href="https://www.universidadperu.com/empresas/categorias.php">
+<link rel="search" href="https://www.universidadperu.com/infoempresa_buscar.xml" type="application/opensearchdescription+xml" title="Buscar en InfoEmpresa">
+<meta name="twitter:site" content="@universidadperu" />
+<meta property="og:image" content="https://www.universidadperu.com/img/uppromofb.png">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="es_ES">
+<meta property="og:site_name" content="UniversidadPeru">
+<meta property="og:title" content="Catálogo de Actividades Comerciales - InfoEmpresa">
+<meta property="og:description" content="Catálogo completo de las empresas del Perú según su actividad comercial">
+<meta property="og:url" content="https://www.universidadperu.com/empresas/categorias.php">
+<meta property="fb:app_id" content="1670810126502653">
+<script>function lablazyload(){var imgEl = document.getElementsByTagName('script');for (var i=0; i<imgEl.length; i++){if(imgEl[i].getAttribute('data-src')){imgEl[i].setAttribute('src',imgEl[i].getAttribute('data-src'));imgEl[i].removeAttribute('data-src');}}}
+['keydown','mouseover','touchmove','touchstart','orientationChange','scroll','resize','focus','load'].forEach(evt =>document.addEventListener(evt, lablazyload, false));</script>
+<script>if(top.location!=location){top.location.href = document.location.href;}
+    window.google_analytics_uacct="UA-137598-1";
+    function respMenu(){var x=document.getElementById("main-content");x.style.display=x.style.display=="none"?"block":"none";var y=document.getElementById("leftcolumn");y.style.display=y.style.display=="block"?"none":"block";}function respInfoSearch(){var z=document.getElementById("clInfoEmpresa1");z.style.display=z.style.display=="block"?"none":"block";}</script>
+<script data-src="https://www.googletagmanager.com/gtag/js?id=UA-137598-1"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-137598-1');</script>
+<style>body{background:#B8B0A7;color:#444;font-family:'Open Sans',Sans-Serif;font-size:14px;width:100%}p{padding:0;margin:7px 4px 10px}body,div{margin:0;padding:0}a img,img{border:0}.jj{text-align:justify}.cc{text-align:center}.clr,.formlabel,hr{clear:both}.h2,h2,li,ul{text-align:left}.h2,.subnote,blockquote,h2,h3{font-style:italic}#leftcolumn li,a{text-decoration:none}.fr,.imgright{float:right}.fl,.formfield,.formlabel,.greynobox,.imgleft,#mainlogo{float:left}a{color:#06c}.h2,h2{font-family:'Open Sans',Sans-serif;color:#963;font-size:1.3em;font-weight:400;margin-top:4px;padding-bottom:2px;border-bottom:1px solid silver}#leftcolumn .h2,.greynobox,h3{font-weight:700}.half{width:48%}#bodycontainer{margin:0 auto;padding:7px 5px 5px 10px;background:#fff;width:1175px;box-shadow:0 5px 10px 0 #000;position:relative;clear:both}#thetop{width:100%;box-shadow:0 0 10px 0 #000;height:100px;padding-top:10px;border-bottom:1px solid #369;background:linear-gradient(to right,#f91,#f4f5f9)}#thetop img{margin:3px 0 0}#main-content{width:60.5%;padding:10px;border-radius:9px;border:2px solid #e7935b;line-height:22px;font-size:15px}#leftcolumn{width:36.1%}#leftcolumn .h2{font-family:'Indie Flower',cursive}#leftcolumn ul{width:97%;list-style:none;padding:0;margin:0 0 10px;border:2px solid #e7935b;border-radius:0 9px 9px 0;position:relative}#leftcolumn li{background:#fff;display:block;padding:2px 7px;margin:7px;width:92%;border-radius:0 6px 6px 0;position:relative}#leftcolumn li.navon,#leftcolumn li.navon a,#leftcolumn li:hover,#leftcolumn li:hover a{background:#369;color:#fff;text-decoration:none}.greynobox{color:#313084;border-top:#b8b7b7 1px solid;display:block;background:#f1f1f1;margin-bottom:4px;width:99%;height:100%;padding-top:9px;padding-bottom:5px;text-align:center;border-radius:0 0 12px 12px;box-shadow:3px 3px 2px silver;position:relative}.imgleft,.imgright{box-shadow:4px 4px 3px silver;position:relative}h1{font-size:2em;color:#183852;font-family:'Open Sans',Sans-serif;text-shadow:silver 3px 3px 1px;position:relative;margin:13px 0}#main-content ul{list-style:none;padding:0}#main-content li{padding-left:1.3em;margin:8px 2px 3px;text-align:justify}#main-content li.exp:before,#main-content li:before{font-size:140%;content:"\f0da";color:#00f;font-family:FontAwesome,fantasy;display:inline-block;margin-left:-.5em;width:1.2em}#main-content li li:before{color:brown!important}.ads{display:inline-block;width:98%;height:280px}.btn{padding:14px;margin:14px;width:14px;height:14px}/* NC */h3{font-size:105%;color:#069}.ll{text-align:left}.rr{text-align:right}.imgleft{margin:0 25px 10px 0}.imgright{margin:0 0 10px 10px}a:hover{text-decoration:underline}.red{color:#f03}.grn{color:#060}.org{color:orange}.blu{color:#00f}li.phone:before{content:"\f098"!important;font-size:130%!important}.ns{display:none}.subnote{color:#747474}blockquote,code{color:#b22;font-weight:700}table{border:1px solid #7799b9;border-collapse:collapse;width:97%;margin:0 auto}th{background:#79b;color:#fff;font-weight:700;text-align:center}td{border:1px solid silver;padding:1% 0}.comentarios{border:3px solid #da7;box-shadow:3px 3px 7px #777;margin:0 auto;padding:8px 15px;background:#F6F6F6;border-radius:9px;position:relative}.comentarioall{border:3px solid #ccc;text-align:justify;box-shadow:4px 4px 3px #777;margin:0 0 8px;padding:10px;border-radius:9px;position:relative}.comentario1{background:linear-gradient(to right,#ffe,#fff)}.comentario2{background:linear-gradient(to right,#cfe7ff,#fff)}.comentario3{background:linear-gradient(to right,#ccc,#fff)}.reduced{font-size:85%;text-align:left}table.reduced td{margin:0;padding:0;border-spacing:0;border-collapse:separate}hr{height:1px;color:silver;border-style:none;border-top:1px solid silver}tr:hover td{background:#efd!important}code{font-size:75%;overflow:auto;display:inline}.formlabel{width:30%;text-align:right;margin:10px 1% 0 0;color:#555}.formfield{width:69%;text-align:left;margin:12px 0 0;font-size:90%}.formfield input,.formfield select{height:22px}iframe{margin:0;border:0;padding:0!important}.txtinput{width:60%}textarea{width:90%}.thumbshow{width:195px;margin:0 5px 0 0;padding:0;font-size:75%}.thumbshow img{box-shadow:4px 4px 3px silver;position:relative;text-align:center}.socialtw,.socialfb{float:left;background:#fff;border:1px solid #333;width:35%;height:25px;display:block;padding:0 0 5px;margin:0 0 0 10%}.socialtw:hover,.socialfb:hover{box-shadow:0 0 10px 0 #000;text-shadow:silver 3px 3px 1px}tfoot{background:silver;font-size:120%;font-weight:700}li.calendar:before{content:"\f274"!important;color:brown!important;margin:0 .5em!important}input[type="submit"]{font-size:90%;font-weight:bold;padding:7px;border:1px solid #222;box-shadow:3px 3px 2px silver;position:relative;border-radius:7px;}input[type="submit"]:hover{background:#fbd4a1;cursor:pointer}#comunity{margin:0 30px 0 0;display:block;width:240px;height:90px;background:#fff;border:1px solid #c0c0c0;color:#747474;font-weight:bold}#comunity a{color:#747474}#comunity a:hover{text-shadow:silver 3px 3px 1px}.socfollow{width:60px;height:60px;margin:0 10px 0 0}
+@font-face{font-family:'FontAwesome';font-display:swap;src:url('/img/fontawesome4.5.woff2') format('woff2');font-weight:normal;font-style:normal}.fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit}.fa-2x{font-size:2em}.fa-check-square-o:before{content:"\f046"}.fa-envelope:before{content:"\f0e0"}.fa-fw{width:1.28571429em;text-align:center}.fa-times:before{content:"\f00d"}.fa-university:before{content:"\f19c"}.fa-arrow-down:before{content:"\f063"}.fa-arrow-up:before{content:"\f062"}.fa-bar-chart:before{content:"\f080"}.fa-thumbs-o-up:before{content:"\f087"}.fa-thumbs-o-down:before{content:"\f088"}.fa-rss-square:before{content:"\f143"}.fa-twitter:before{content:"\f099"}.fa-bars:before{content:"\f0c9"}.fa-money:before{content:"\f0d6"}.fa-credit-card:before{content:"\f09d"}.fa-search:before{content:"\f002"}.fa-book:before{content:"\f02d"}.fa-warning:before{content:"\f071"}.fa-user-secret:before{content:"\f21b"}.fa-trophy:before{content:"\f091"}.fa-print:before{content:"\f02f"}.fa-envelope2:before{content:"\f0e0";color:#db7444}.fa-twitter2:before{content:"\f099";color:#55acee}.fa-graduation-cap:before{content:"\f19d"}.fa-facebook-square:before{content:"\f082";color:#3a589e}.fa-gavel:before{content:"\f0e3"}.fa-newspaper-o:before{content:"\f1ea"}
+@font-face{font-family:'Open Sans';font-display:optional;font-style:normal;font-weight:400;src:local('Open Sans Regular'),local('OpenSans-Regular'),url('/img/opensans.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:'Indie Flower';font-display:optional;font-style:normal;font-weight:400;src:local('Indie Flower'),local('IndieFlower'),url('/img/indieflower.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+</style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9703374939060795" crossorigin="anonymous"></script>
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"></head>
+<body>
+<div id="thetop">
+<p class='ns fr' id='respMenu'>
+<a href="#" onclick="respInfoSearch()" title="Buscar Empresas" accesskey="b"><i class="fa fa-search" aria-hidden="true"></i></a> | <a href="#" onclick="respMenu()" title="Menu responsive" accesskey="m"><i class='fa fa-bars' aria-hidden='true'></i></a></p>
+<a href="/" title="UniversidadPeru.com - Portal de Estudios" accesskey="h"><img src="/images/logo-up2016.png" id="mainlogo" alt="Logo UniversidadPeru" width="425" height="85"></a><div id="comunity" class="fr cc"><p>¡Únete a nuestras comunidades!</p>
+<div class="socfollow fr cc"><a href="https://www.universidadperu.com/newsletter.php"><i class="fa fa-envelope2 fa-2x" aria-hidden="true"></i><br>+36,000</a></div>
+<div class="socfollow fr cc"><a href="https://twitter.com/universidadperu" rel="me"><i class="fa fa-twitter2 fa-2x" aria-hidden="true"></i><br>+6,000</a></div>
+<div class="socfollow fr cc"><a href="https://www.facebook.com/universidadperu/" rel="me"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i><br>+26,000</a></div>
+</div></div>
+<div id="bodycontainer"><div id="main-content" class="clr fl jj"><div class="comentarios  cc" id="clInfoEmpresa1"><form name="InfoEmpresa1" action="/empresas/busqueda/" rel="nofollow" id="InfoEmpresa1" method="post"><label for="buscaempresa">Buscar Empresa: </label><input type="text" name="buscaempresa" id="buscaempresa" class="txtinput" placeholder="Busca por RUC o Razon Social"> <input type="submit" value="Buscar"></form></div>
+<div class="cc"><ins class="adsbygoogle ads" data-ad-channel="0337178826" data-ad-client="ca-pub-9703374939060795" data-ad-slot="1532288888" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<!-- google_ad_section_start -->
+<h1>Catálogo de Actividades Comerciales - InfoEmpresa</h1><p>A continuación presentamos nuestro directorio de Empresas Peruanas, ordenadas de acuerdo a la actividad comercial primaria que realizan.</p>
+<ul>
+<li><a href="https://www.universidadperu.com/empresas/acabado-de-prod-textiles-categoria.php">ACABADO DE PROD. TEXTILES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/acondicionamiento-de-edificios-categoria.php">ACONDICIONAMIENTO DE EDIFICIOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activ-administ-publica-en-general-categoria.php">ACTIV. ADMINIST. PUBLICA EN GENERAL</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activ-auxil-ares-de-interm-financ-categoria.php">ACTIV. AUXIL ARES DE INTERM. FINANC.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activ-de-investigacion-y-seguridad-categoria.php">ACTIV. DE INVESTIGACION Y SEGURIDAD.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activ-financ-planes-seguros-y-pens-categoria.php">ACTIV. FINANC. PLANES SEGUROS Y PENS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activ-inmobiliarias-por-retribucion-categoria.php">ACTIV. INMOBILIARIAS POR RETRIBUCION.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activde-arquitectura-e-ingenieria-categoria.php">ACTIV.DE ARQUITECTURA E INGENIERIA</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activde-asesoramiento-empresarial-categoria.php">ACTIV.DE ASESORAMIENTO EMPRESARIAL</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activjardines-botanicos-y-zoologic-categoria.php">ACTIV.JARDINES BOTANICOS Y ZOOLOGIC.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/activmuseos-y-lugares-historicos-categoria.php">ACTIV.MUSEOS Y LUGARES HISTORICOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activorganizaciones-empresariales-categoria.php">ACTIV.ORGANIZACIONES EMPRESARIALES</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activorganizaciones-politicas-categoria.php">ACTIV.ORGANIZACIONES POLITICAS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activorganizaciones-profesionales-categoria.php">ACTIV.ORGANIZACIONES PROFESIONALES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activorganizaciones-religiosas-categoria.php">ACTIV.ORGANIZACIONES RELIGIOSAS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activrelacionadascon-base-de-dato-categoria.php">ACTIV.RELACIONADAS.CON BASE DE DATO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/activteatrales--musicales-y-otras-categoria.php">ACTIV.TEATRALES, MUSICALES Y OTRAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-bibliotecas-y-archivos-categoria.php">ACTIVIDADES BIBLIOTECAS Y ARCHIVOS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-bursatiles-categoria.php">ACTIVIDADES BURSATILES</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-de-agencias-de-noticias-categoria.php">ACTIVIDADES DE AGENCIAS DE NOTICIAS</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/actividades-de-contabilidad-categoria.php">ACTIVIDADES DE CONTABILIDAD</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-de-correo-distintas-categoria.php">ACTIVIDADES DE CORREO DISTINTAS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-de-defensa-categoria.php">ACTIVIDADES DE DEFENSA</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-de-envase-y-empaque-categoria.php">ACTIVIDADES DE ENVASE Y EMPAQUE</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-de-fotografia-categoria.php">ACTIVIDADES DE FOTOGRAFIA</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-de-hospitales-categoria.php">ACTIVIDADES DE HOSPITALES</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-de-impresion-categoria.php">ACTIVIDADES DE IMPRESION.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-de-medicos-y-odontologo-categoria.php">ACTIVIDADES DE MEDICOS Y ODONTOLOGO</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-de-radio-y-television-categoria.php">ACTIVIDADES DE RADIO Y TELEVISION.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-de-sindicatos-categoria.php">ACTIVIDADES DE SINDICATOS</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/actividades-deportivas-categoria.php">ACTIVIDADES DEPORTIVAS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-inmobiliarias-categoria.php">ACTIVIDADES INMOBILIARIAS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-juridicas-categoria.php">ACTIVIDADES JURIDICAS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-limpieza-de-edificios-categoria.php">ACTIVIDADES LIMPIEZA DE EDIFICIOS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-otras-asociaciones-ncp-categoria.php">ACTIVIDADES OTRAS ASOCIACIONES NCP.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-postales-nacionales-categoria.php">ACTIVIDADES POSTALES NACIONALES</a></li>
+<li><a href="https://www.universidadperu.com/empresas/actividades-veterinarias-categoria.php">ACTIVIDADES VETERINARIAS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/administracion-mercados-financieros-categoria.php">ADMINISTRACION MERCADOS FINANCIEROS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/agencias-de-viajes-y-guias-turistic-categoria.php">AGENCIAS DE VIAJES Y GUIAS TURISTIC.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/almacenamiento-y-deposito-categoria.php">ALMACENAMIENTO Y DEPOSITO</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/alquiler-de-construccion-categoria.php">ALQUILER DE CONSTRUCCION.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/alquiler-enseres-domesticos-ncp-categoria.php">ALQUILER ENSERES DOMESTICOS NCP.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/alquiler-equipo-transporte-v-terres-categoria.php">ALQUILER EQUIPO TRANSPORTE V. TERRES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/alquiler-equipo-transporte-vacuat-categoria.php">ALQUILER EQUIPO TRANSPORTE V.ACUAT.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/alquiler-maqui-y-equipagropecuario-categoria.php">ALQUILER MAQUI. Y EQUIP.AGROPECUARIO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/alquiler-maqui-y-equipconstruccion-categoria.php">ALQUILER MAQUI. Y EQUIP.CONSTRUCCION.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/alquiler-maquiy-equipde-oficina-categoria.php">ALQUILER MAQUI.Y EQUIP.DE OFICINA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/alquiler-otros-tipos-maqy-equi-ncp-categoria.php">ALQUILER OTROS TIPOS MAQ.Y EQUI. NCP.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/arrendamiento-con-opcion-de-compra-categoria.php">ARRENDAMIENTO CON OPCION DE COMPRA</a></li>
+<li><a href="https://www.universidadperu.com/empresas/aserrado-y-acepilladura-madera-categoria.php">ASERRADO Y ACEPILLADURA MADERA.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/banca-central-categoria.php">BANCA CENTRAL</a></li>
+<li><a href="https://www.universidadperu.com/empresas/captacion---depuracion--y-dist-de-agua-categoria.php">CAPTACION , DEPURACION Y DIST. DE AGUA</a></li>
+<li><a href="https://www.universidadperu.com/empresas/caza-ordinaria-y-servicios-conexos-categoria.php">CAZA ORDINARIA Y SERVICIOS CONEXOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/construc-y-reparac-de-embarcaciones-categoria.php">CONSTRUC. Y REPARAC. DE EMBARCACIONES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/construccion-edificios-completos-categoria.php">CONSTRUCCION EDIFICIOS COMPLETOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/construccion-y-reparacion--de-buques-categoria.php">CONSTRUCCION Y REPARACION DE BUQUES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/consultores--prog-y-sumin-informatic-categoria.php">CONSULTORES PROG. Y SUMIN. INFORMATIC.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/consultores-en-equipo-informatica-categoria.php">CONSULTORES EN EQUIPO INFORMATICA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/corte-tallado-y-acabado-de-piedra-categoria.php">CORTE, TALLADO Y ACABADO DE PIEDRA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/cria-de-animales-domesticos-categoria.php">CRIA DE ANIMALES DOMESTICOS.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/cria-de-ganado-categoria.php">CRIA DE GANADO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/cultivo-de-frutas-categoria.php">CULTIVO DE FRUTAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/cultivo-de-hortalizas-y-legumbres-categoria.php">CULTIVO DE HORTALIZAS Y LEGUMBRES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/cultivos-de-cereales-categoria.php">CULTIVOS DE CEREALES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/curtido-y-adobo-de-cueros-categoria.php">CURTIDO Y ADOBO DE CUEROS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/ed-de-materiales-grabados-categoria.php">ED. DE MATERIALES GRABADOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/ed-de-periodicos-y-revistas-categoria.php">ED. DE PERIODICOS Y REVISTAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/ed-libros-folletos-y-otros-categoria.php">ED. LIBROS, FOLLETOS Y OTROS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/educacion-de-adultos-y-otros-categoria.php">EDUCACION DE ADULTOS Y OTROS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-de-almidones-y-derivados-categoria.php">ELAB DE ALMIDONES Y DERIVADOS.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/elab-de-otros-prod-alimenticios-categoria.php">ELAB DE OTROS PROD. ALIMENTICIOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-de-productos-lacteos-categoria.php">ELAB DE PRODUCTOS LACTEOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-cacao-chocolate-y-confit-categoria.php">ELAB. CACAO, CHOCOLATE Y CONFIT.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-de-aceite-y-grasas-categoria.php">ELAB. DE ACEITE Y GRASAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-de-azucar-categoria.php">ELAB. DE AZUCAR.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-de-bebidas-malteadas-categoria.php">ELAB. DE BEBIDAS MALTEADAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-de-bebidas-no-alcoholicas-categoria.php">ELAB. DE BEBIDAS NO ALCOHOLICAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-de-piensos-preparados-categoria.php">ELAB. DE PIENSOS PREPARADOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-de-productos-de-molineria-categoria.php">ELAB. DE PRODUCTOS DE MOLINERIA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-de-productos-de-tabaco-categoria.php">ELAB. DE PRODUCTOS DE TABACO.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/elab-de-vinos-categoria.php">ELAB. DE VINOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-frutas-leg-y-hortalizas-categoria.php">ELAB. FRUTAS, LEG. Y HORTALIZAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-macarrones-fideos-y-otros-categoria.php">ELAB. MACARRONES, FIDEOS Y OTROS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-prod-de-panaderia-categoria.php">ELAB. PROD. DE PANADERIA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/elab-y-cons-de-pescado-categoria.php">ELAB. Y CONS DE PESCADO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/eliminacion-de-desperdicios-categoria.php">ELIMINACION DE DESPERDICIOS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/ensayos-y-analisis-tecnicos-categoria.php">ENSAYOS Y ANALISIS TECNICOS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/ensenanza-primaria-categoria.php">ENSEÑANZA PRIMARIA</a></li>
+<li><a href="https://www.universidadperu.com/empresas/ensenanza-secundaria-general-categoria.php">ENSEÑANZA SECUNDARIA FORMACION GRAL.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/ensenanza-secundaria-tecnica-categoria.php">ENSEÑANZA SECUNDARIA FORMAC. TECNICA.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/ensenanza-superior-categoria.php">ENSEÑANZA SUPERIOR</a></li>
+<li><a href="https://www.universidadperu.com/empresas/exhibicion-filmes-y-videos-categoria.php">EXHIBICION FILMES Y VIDEOS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/exp-otras-minas-y-canteras-nia-categoria.php">EXP. OTRAS MINAS Y CANTERAS NIA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/explotacion-mixta-categoria.php">EXPLOTACION MIXTA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/ext-de-min-de-hierro-categoria.php">EXT. DE MIN. DE HIERRO</a></li>
+<li><a href="https://www.universidadperu.com/empresas/ext-de-min-metaliferos-no-ferrosos-categoria.php">EXT. DE MIN. METALIFEROS NO FERROSOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/extraccion-minera-uranio-torio-categoria.php">EXT. DE MIN. URANIO Y TORIO</a></li>
+<li><a href="https://www.universidadperu.com/empresas/ext-de-piedra-arena-y-arcilla-categoria.php">EXT. DE PIEDRA, ARENA Y ARCILLA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/ext-min-fabric-abono-y-prod-quimic-categoria.php">EXT. MIN FABRIC. ABONO Y PROD. QUIMIC.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/ext-petroleo-crudo-y-gas-natural-categoria.php">EXT. PETROLEO CRUDO Y GAS NATURAL.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/extrac-y--aglomerac-carbon-de-piedra-categoria.php">EXTRAC. Y AGLOMERAC. CARBON DE PIEDRA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/extrac-y-aglomerac-lignito-categoria.php">EXTRAC. Y AGLOMERAC. LIGNITO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/extraccion-de-sal-categoria.php">EXTRACCION DE SAL.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab--aparatos-de-uso-domestico-ncp-categoria.php">FAB. APARATOS DE USO DOMESTICO NCP.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab--art-cuchilleria-ferreteria-categoria.php">FAB. ART. CUCHILLERIA, FERRETERIA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab--art-de-hormigon-cemento-y-yeso-categoria.php">FAB. ART. DE HORMIGON, CEMENTO Y YESO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab--cojinetes-y-engranajes-categoria.php">FAB. COJINETES Y ENGRANAJES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab--de-generadores-de-vapor-categoria.php">FAB. DE GENERADORES DE VAPOR.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab--envases-de-papel-y-carton-categoria.php">FAB. ENVASES DE PAPEL Y CARTON.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab--maquinaria-de-oficina-categoria.php">FAB. MAQUINARIA DE OFICINA.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/fab--motores--generadores-electricos-categoria.php">FAB. MOTORES, GENERADORES ELECTRICOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-abono--y-comp-de-nitrogeno-categoria.php">FAB. ABONO Y COMP. DE NITROGENO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-aeronaves-y-naves-espaciales-categoria.php">FAB. AERONAVES Y NAVES ESPACIALES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-art-confeccionados-categoria.php">FAB. ART. CONFECCIONADOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-articulos-deportivos-categoria.php">FAB. ARTICULOS DEPORTIVOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-bicicletas-y-sillones-de-ruedas-categoria.php">FAB. BICICLETAS Y SILLONES DE RUEDAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-carrocerias-para-vehiculos-categoria.php">FAB. CARROCERIAS PARA VEHICULOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-cuerdas-cordeles-y-redes-categoria.php">FAB. CUERDAS, CORDELES Y REDES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-acumuladores-y-baterias-categoria.php">FAB. DE ACUMULADORES Y BATERIAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-aparatos-de-distribucion-categoria.php">FAB. DE APARATOS DE DISTRIBUCION.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-armas-y-municiones-categoria.php">FAB. DE ARMAS Y MUNICIONES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-articulos-de-piel-categoria.php">FAB. DE ARTICULOS DE PIEL.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-bombas--compresoras-grifos-categoria.php">FAB. DE BOMBAS, COMPRESORAS, GRIFOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-calzado-categoria.php">FAB. DE CALZADO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-cemento-cal-y-yeso-categoria.php">FAB. DE CEMENTO, CAL Y YESO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-cubiertos-de-caucho-categoria.php">FAB. DE CUBIERTOS DE CAUCHO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-fibras-sinteticas-o-artific-categoria.php">FAB. DE FIBRAS SINTETICAS O ARTIFIC.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-gas-distribucion-combustible-categoria.php">FAB. DE GAS, DISTRIBUCION COMBUSTIBLE.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-hilos-y-cables-aislados-categoria.php">FAB. DE HILOS Y CABLES AISLADOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-hojas-de-madera-categoria.php">FAB. DE HOJAS DE MADERA.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-juegos-y-juguetes-categoria.php">FAB. DE JUEGOS Y JUGUETES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-lamparas-electricas-categoria.php">FAB. DE LAMPARAS ELECTRICAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-maletas-y-otros-categoria.php">FAB. DE MALETAS Y OTROS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-maquinaria--agropecuaria-categoria.php">FAB. DE MAQUINARIA AGROPECUARIA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-maquinaria--metalurgica-categoria.php">FAB. DE MAQUINARIA METALURGICA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-maquinas-herramienta-categoria.php">FAB. DE MAQUINAS HERRAMIENTA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-motocicletas-categoria.php">FAB. DE MOTOCICLETAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-motores-y-turbinas-categoria.php">FAB. DE MOTORES Y TURBINAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-muebles-categoria.php">FAB. DE MUEBLES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-otros-articulos-categoria.php">FAB. DE OTROS ARTICULOS.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-otros-prod-quimicos-neop-categoria.php">FAB. DE OTROS PROD. QUIMICOS NEOP.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-papel-y-carton-categoria.php">FAB. DE PAPEL Y CARTON.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-pinturas-y-barnices-categoria.php">FAB. DE PINTURAS Y BARNICES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-plaguicidas-y-otros-prod-quim-categoria.php">FAB. DE PLAGUICIDAS Y OTROS PROD. QUIM.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-plasticos-y-de-caucho-categoria.php">FAB. DE PLASTICOS Y DE CAUCHO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-prendas-de-vestir-categoria.php">FAB. DE PRENDAS DE VESTIR.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-prod-farmaceuticos-categoria.php">FAB. DE PROD. FARMACEUTICOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-productos-de-plasticos-categoria.php">FAB. DE PRODUCTOS DE PLASTICOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-relojes-categoria.php">FAB. DE RELOJES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-sustancias-quimicas-basicas-categoria.php">FAB. DE SUSTANCIAS QUIMICAS BASICAS.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/fab-de-tapices-y-alfombras-categoria.php">FAB. DE TAPICES Y ALFOMBRAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-equip--elevacion-y-manipulacion-categoria.php">FAB. EQUIP. ELEVACION Y MANIPULACION.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-equipo-control-de-procesos-ind-categoria.php">FAB. EQUIPO CONTROL DE PROCESOS IND.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-equipo-medico-y-quirurgico-categoria.php">FAB. EQUIPO MEDICO Y QUIRURGICO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-hornos-hogueras-quemadores-categoria.php">FAB. HORNOS, HOGUERAS, QUEMADORES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-instrumentos-de-medicion-categoria.php">FAB. INSTRUMENTOS DE MEDICION.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-instrumentos-musicales-categoria.php">FAB. INSTRUMENTOS MUSICALES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-instrumentos-opticos-categoria.php">FAB. INSTRUMENTOS OPTICOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-jabones-y-detergentes-categoria.php">FAB. JABONES Y DETERGENTES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-joyas-y-articulos-conexos-categoria.php">FAB. JOYAS Y ARTICULOS CONEXOS.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/fabricacion-locomotoras-material-rodante-categoria.php">FAB. LOCOMOTORAS Y MATERIAL RODANTE.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-maquin-minera-y-obras-de-const-categoria.php">FAB. MAQUIN MINERA Y OBRAS DE CONST.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-maquin-elab-alimentos-bebidas-categoria.php">FAB. MAQUIN. ELAB. ALIMENTOS, BEBIDAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-maquinaria-elab-textiles-categoria.php">FAB. MAQUINARIA ELAB. TEXTILES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-otro-tipo-equipo-electrico-ncp-categoria.php">FAB. OTRO TIPO EQUIPO ELECTRICO NCP.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-otro-tipo-maquin-uso-especial-categoria.php">FAB. OTRO TIPO MAQUIN. USO ESPECIAL.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-otro-tipo-maquinaria-uso-gral-categoria.php">FAB. OTRO TIPO MAQUINARIA USO GRAL.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-otros-equipos-de--transporte-ncp-categoria.php">FAB. OTROS EQUIPOS DE TRANSPORTE NCP.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-otros-prod-de-metal-ncp-categoria.php">FAB. OTROS PROD. DE METAL NCP.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-otros-prod-min-no-metalic-ncp-categoria.php">FAB. OTROS PROD. MIN. NO METALIC. NCP.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/fab-otros-prod-textiles-neop-categoria.php">FAB. OTROS PROD. TEXTILES NEOP.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-otros-productos-de-caucho-categoria.php">FAB. OTROS PRODUCTOS DE CAUCHO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-otros-productos-de-madera-categoria.php">FAB. OTROS PRODUCTOS DE MADERA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-partes-y-piezas-carpinteria-categoria.php">FAB. PARTES Y PIEZAS CARPINTERIA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-partes-piezas-y-accesorios-categoria.php">FAB. PARTES, PIEZAS Y ACCESORIOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-prod--refinacion-del-petroleo-categoria.php">FAB. PROD. REFINACION DEL PETROLEO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-prod-ceramica-no-refract-est-categoria.php">FAB. PROD. CERAMICA NO REFRACT. EST.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-prod-ceramica-no-refract-n-est-categoria.php">FAB. PROD. CERAMICA NO REFRACT. N. EST.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-prod-ceramica-refactaria-categoria.php">FAB. PROD. CERAMICA REFACTARIA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-prod-de-hornos-de-coque-categoria.php">FAB. PROD. DE HORNOS DE COQUE.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/fab-prod-met-acabados-o-semiacabad-categoria.php">FAB. PROD. MET. ACABADOS O SEMIACABAD.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-prod-metal-uso-estructural-categoria.php">FAB. PROD. METAL. USO ESTRUCTURAL.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-productos-de-hierro-y-acero-categoria.php">FAB. PRODUCTOS DE HIERRO Y ACERO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-productos-de-met-preciosos-categoria.php">FAB. PRODUCTOS DE MET. PRECIOSOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-receptores-de-radio-y-tv-categoria.php">FAB. RECEPTORES DE RADIO Y TV.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-recipientes-de-madera-categoria.php">FAB. RECIPIENTES DE MADERA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-tanques-depositos-y-recip-metal-categoria.php">FAB. TANQUES, DEPOSITOS Y RECIP. METAL.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-tejidos-y-art-de-punto-categoria.php">FAB. TEJIDOS Y ART DE PUNTO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-transmisores-de-radio-y-tv-categoria.php">FAB. TRANSMISORES DE RADIO Y TV.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-tubos-y-valvulas-electronicos-categoria.php">FAB. TUBOS Y VALVULAS ELECTRONICOS.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/fab-vehiculos-automotores-categoria.php">FAB. VEHICULOS AUTOMOTORES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fab-vidrio-y-prod-de-vidrio-categoria.php">FAB. VIDRIO Y PROD. DE VIDRIO</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fundicion-de-hierro-y-de-acero-categoria.php">FUNDICION DE HIERRO Y DE ACERO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/fundicion-de-metales-no-ferrosos-categoria.php">FUNDICION DE METALES NO FERROSOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/generacion--y-dist-energia-electrica-categoria.php">GENERACION Y DIST. ENERGIA ELECTRICA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/hogares-privados-servicio-domestico-categoria.php">HOGARES PRIVADOS C. SERV.DOMESTICO</a></li>
+<li><a href="https://www.universidadperu.com/empresas/hoteles-campamentos-y-otros-categoria.php">HOTELES, CAMPAMENTOS Y OTROS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/investigacion-de-ciencias-naturales-categoria.php">INVESTIGACION DE CIENCIAS NATURALES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/investigacion-de-ciencias-sociales-categoria.php">INVESTIGACION DE CIENCIAS SOCIALES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/investigacion-de-mercados-categoria.php">INVESTIGACION DE MERCADOS</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/lavado-limpieza-y-tenido-tela-categoria.php">LAVADO, LIMPIEZA Y TEÑIDO TELA</a></li>
+<li><a href="https://www.universidadperu.com/empresas/manipulacion-de-la-carga-categoria.php">MANIPULACION DE LA CARGA</a></li>
+<li><a href="https://www.universidadperu.com/empresas/manteny-reparmaquin-de-oficina-categoria.php">MANTEN.Y REPAR.MAQUIN. DE OFICINA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/mantenimiento-del-orden-publico-categoria.php">MANTENIMIENTO DEL ORDEN PUBLICO</a></li>
+<li><a href="https://www.universidadperu.com/empresas/mantenimiento-y-reparac-vehiculos-categoria.php">MANTENIMIENTO Y REPARAC. VEHICULOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/mezcla-de-bebidas-alcoholicas-categoria.php">MEZCLA DE BEBIDAS ALCOHOLICAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/obras-de-ingenieria-mecanica-categoria.php">OBRAS DE INGENIERIA MECANICA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/obtencion-y-dotacion-personal-categoria.php">OBTENCION Y DOTACION PERSONAL</a></li>
+<li><a href="https://www.universidadperu.com/empresas/organizacion-del-transporte-categoria.php">ORGANIZACION DEL TRANSPORTE</a></li>
+<li><a href="https://www.universidadperu.com/empresas/organizaciones-internacionales-categoria.php">ORGANIZACIONES INTERNACIONALES</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/otras-activrelac-con-salud-humana-categoria.php">OTRAS ACTIV.RELAC. CON SALUD HUMANA</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otras-actividde-tipo-servicio-ncp-categoria.php">OTRAS ACTIVID.DE TIPO SERVICIO NCP</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otras-actividentretenimiento-ncp-categoria.php">OTRAS ACTIVID.ENTRETENIMIENTO NCP.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otras-actividades-de-esparcimiento-categoria.php">OTRAS ACTIVIDADES DE ESPARCIMIENTO</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otras-actividades-de-informatica-categoria.php">OTRAS ACTIVIDADES DE INFORMATICA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otras-actividades-de-transportes-categoria.php">OTRAS ACTIVIDADES DE TRANSPORTES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otras-actividades-empresariales-ncp-categoria.php">OTRAS ACTIVIDADES EMPRESARIALES NCP.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otras-industrias--manufactureras-ncp-categoria.php">OTRAS INDUSTRIAS MANUFACTURERAS NCP.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otros-tipos--transporte-no-reg-via-ter-categoria.php">OTROS TIPOS TRANSPORTE NO REG. VIA TER.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otros-tipos-de-credito-categoria.php">OTROS TIPOS DE CREDITO</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/otros-tipos-de-intermediacion--financ-categoria.php">OTROS TIPOS DE INTERMEDIACION FINANC.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otros-tipos-de-venta-al-por-menor-categoria.php">OTROS TIPOS DE VENTA AL POR MENOR.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otros-tipos-de-venta-por-menor-categoria.php">OTROS TIPOS DE VENTA POR MENOR.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otros-tipos-intermediacion-monetaria-categoria.php">OTROS TIPOS INTERMEDIACION MONETARIA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otros-tipos-transporte-reg-via-ter-categoria.php">OTROS TIPOS TRANSPORTE REG. VIA TER.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/otros-trabajos-de-edicion-categoria.php">OTROS TRABAJOS DE EDICION.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/peluqueria-y-otros-categoria.php">PELUQUERIA Y OTROS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/pesca-explot-criaderos-de-peces-categoria.php">PESCA, EXPLOT. CRIADEROS DE PECES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/planes-de-pensiones-categoria.php">PLANES DE PENSIONES</a></li>
+<li><a href="https://www.universidadperu.com/empresas/planes-de-seguros-de-vida-categoria.php">PLANES DE SEGUROS DE VIDA</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/planes-de-seguros-generales-categoria.php">PLANES DE SEGUROS GENERALES</a></li>
+<li><a href="https://www.universidadperu.com/empresas/pompas-funebres-y-actividconexas-categoria.php">POMPAS FUNEBRES Y ACTIVID.CONEXAS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/prep-y-tej-de-fibras-textiles-categoria.php">PREP Y TEJ DE FIBRAS TEXTILES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/preparacion-del-terreno-categoria.php">PREPARACION DEL TERRENO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/procesamiento-de-datos-categoria.php">PROCESAMIENTO DE DATOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/produc-carne-y-prod-carnicos-categoria.php">PRODUC. CARNE Y PROD. CARNICOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/produccion-y-distfilmes-y-videos-categoria.php">PRODUCCION Y DIST.FILMES Y VIDEOS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/publicidad-categoria.php">PUBLICIDAD</a></li>
+<li><a href="https://www.universidadperu.com/empresas/reciclamiento-desperdicios-metalic-categoria.php">RECICLAMIENTO DESPERDICIOS METALIC.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/reciclamiento-desperdicios-no-metal-categoria.php">RECICLAMIENTO DESPERDICIOS NO METAL.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/regulac-y-facilitac-activeconomic-categoria.php">REGULAC. Y FACILITAC. ACTIV.ECONOMIC.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/regulacion-de-actividorganismos-categoria.php">REGULACION DE ACTIVID.ORGANISMOS</a></li>
+<li><a href="https://www.universidadperu.com/empresas/relaciones-exteriores-categoria.php">RELACIONES EXTERIORES</a></li>
+<li><a href="https://www.universidadperu.com/empresas/reparacion-de-efectos-personales-categoria.php">REPARACION DE EFECTOS PERSONALES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/reproduccion-materiales-grab-categoria.php">REPRODUCCION MATERIALES GRAB.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/restaurantes-bares-y-cantinas-categoria.php">RESTAURANTES, BARES Y CANTINAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/serv-petroleros-y-de-gas-categoria.php">SERV. PETROLEROS Y DE GAS..</a></li>
+<li><a href="https://www.universidadperu.com/empresas/servic-auxilpara-administpublica-categoria.php">SERVIC. AUXIL.PARA ADMINIST.PUBLICA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/servicios-agricolas-ganaderas-categoria.php">SERVICIOS AGRICOLAS, GANADERAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/servicios-publicos-seguridad-social-categoria.php">SERVICIOS PUBLICOS SEGURIDAD SOCIAL</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/servicios-rdos-con-impresion-categoria.php">SERVICIOS RDOS CON IMPRESION.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/servicios-sociales-con-alojamiento-categoria.php">SERVICIOS SOCIALES CON ALOJAMIENTO</a></li>
+<li><a href="https://www.universidadperu.com/empresas/servicios-sociales-sin-alojamiento-categoria.php">SERVICIOS SOCIALES SIN ALOJAMIENTO</a></li>
+<li><a href="https://www.universidadperu.com/empresas/silvicultura-y-ext-de-madera-categoria.php">SILVICULTURA Y EXT. DE MADERA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/suministro-vapor-agua-caliente-categoria.php">SUMINISTRO DE VAPOR Y AGUA CALIENTE.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/telecomunicaciones-categoria.php">TELECOMUNICACIONES</a></li>
+<li><a href="https://www.universidadperu.com/empresas/terminacion-de-edificios-categoria.php">TERMINACION DE EDIFICIOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/transporte--de-carga-por-carretera-categoria.php">TRANSPORTE DE CARGA POR CARRETERA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/transporte--no-regular--por-via-aerea-categoria.php">TRANSPORTE NO REGULAR POR VIA AEREA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/transporte--regular-via-aerea-categoria.php">TRANSPORTE REGULAR VIA AEREA.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/transporte-maritimo-y-de-cabotaje-categoria.php">TRANSPORTE MARITIMO Y DE CABOTAJE.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/transporte-por-tuberias-categoria.php">TRANSPORTE POR TUBERIAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/transporte-por-via-ferrea-categoria.php">TRANSPORTE POR VIA FERREA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/transporte-vias-navegacion-interior-categoria.php">TRANSPORTE VIAS NAVEGACION INTERIOR.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/venta-al-por-menor-combustibles-categoria.php">VENTA AL POR MENOR COMBUSTIBLES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/venta-de-vehiculos-automotores-categoria.php">VENTA DE VEHICULOS AUTOMOTORES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/venta-partes-piezas-accesorios-categoria.php">VENTA PARTES, PIEZAS, ACCESORIOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/venta-manten-y-reparac-motocicletas-categoria.php">VENTA, MANTEN. Y REPARAC. MOTOCICLETAS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta--may-a-cambio-de-una-retribucion-categoria.php">VTA. MAY. A CAMBIO DE UNA RETRIBUCION.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta--may-de-materias-primas-agropec-categoria.php">VTA. MAY. DE MATERIAS PRIMAS AGROPEC.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/vta--min-alimentos-bebidas-tabaco-categoria.php">VTA. MIN. ALIMENTOS, BEBIDAS, TABACO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta--min-otros-productos-en-almacen-categoria.php">VTA. MIN. OTROS PRODUCTOS EN ALMACEN.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta--min-prod-farmac-y-art-tocador-categoria.php">VTA. MIN. PROD. FARMAC. Y ART. TOCADOR.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-al-por-mayor-de-combustibles-categoria.php">VTA. AL POR MAYOR DE COMBUSTIBLES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-may-alimentos-bebidas-y-tabaco-categoria.php">VTA. MAY. ALIMENTOS, BEBIDAS Y TABACO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-may-de-metales-y-minerales-met-categoria.php">VTA. MAY. DE METALES Y MINERALES MET.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-may-de-otros-productos-categoria.php">VTA. MAY. DE OTROS PRODUCTOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-may-maquinaria-equipo-y-mater-categoria.php">VTA. MAY. MAQUINARIA, EQUIPO Y MATER.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-may-materiales-de-construccion-categoria.php">VTA. MAY. MATERIALES DE CONSTRUCCION.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-may-otros-enseres-domesticos-categoria.php">VTA. MAY. OTROS ENSERES DOMESTICOS.</a></li>
+</ul><hr><ul>
+<li><a href="https://www.universidadperu.com/empresas/vta-may-otros-productos-intermedios-categoria.php">VTA. MAY. OTROS PRODUCTOS INTERMEDIOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-may-productos-textiles-categoria.php">VTA. MAY. PRODUCTOS TEXTILES.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-min-articulos-de-ferreteria-categoria.php">VTA. MIN. ARTICULOS DE FERRETERIA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-min-de-almacenes-de-art-usados-categoria.php">VTA. MIN. DE ALMACENES DE ART. USADOS.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-min-de-casas-de-venta-por-correo-categoria.php">VTA. MIN. DE CASAS DE VENTA POR CORREO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-min-en-almacenes-no-especializ-categoria.php">VTA. MIN. EN ALMACENES NO ESPECIALIZ.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-min-en-puestos-de-venta-categoria.php">VTA. MIN. EN PUESTOS DE VENTA.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-min-equipo-de-uso-domestico-categoria.php">VTA. MIN. EQUIPO DE USO DOMESTICO.</a></li>
+<li><a href="https://www.universidadperu.com/empresas/vta-min-productos-textiles-calzado-categoria.php">VTA. MIN. PRODUCTOS TEXTILES, CALZADO.</a></li>
+</ul><hr>
+<p class="subnote">UniversidadPeru.com presenta información pública según consta en los registros de <a href="https://www.sunat.gob.pe" rel="nofollow">Sunat</a> y algunas otras fuentes, sobre diferentes empresas, sin embargo la misma no necesariamente es la más reciente o actualizada.</p>
+<!--google_ad_section_end-->
+<div class="cc"><ins class="adsbygoogle ads" data-ad-channel="0337178826" data-ad-client="ca-pub-9703374939060795" data-ad-slot="9485426697" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<br class='clr'></div><div id="leftcolumn" class="fr">
+<div class="cc"><ins class="adsbygoogle ads" data-ad-channel="0337178826" data-ad-client="ca-pub-9703374939060795" data-ad-slot="8710964118" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p class="h2">Lo más visto</p><ul><li><a href="/">Inicio</a></li><li><a href="/carreras-peru.php">Encuentra tu Carrera Ideal</a></li><li class="navon"><a href="/empresas/">InfoEmpresa - Directorio de Empresas</a></li><li><a href="/trabajo-peru.php">Ofertas de Trabajo y Empleo</a></li><li><a href="/agenda-peru.php">Agenda Cultural y de Eventos</a></li></ul>
+<div class="cc"><ins class="adsbygoogle ads" data-ad-channel="0337178826" data-ad-client="ca-pub-9703374939060795" data-ad-slot="2844393912" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p class="h2">Especiales</p><ul><li><a href="/licenciamiento-sunedu.php">Universidades Licenciadas Sunedu</a></li><li><a href="/great-place-to-work.php">Certificación Great Place to Work</a></li><li><a href="/premios-effie.php">Ganadoras Premios Effie</a></li><li><a href="/ranking/">Ranking de las Top Webs Peruanas</a></li></ul>
+<div class="cc"><ins class="adsbygoogle ads" data-ad-channel="0337178826" data-ad-client="ca-pub-9703374939060795" data-ad-slot="3965903895" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p class="h2">Otras Secciones</p><ul><li><a href="/articulos-universidad-peru.php">Artículos Interesantes</a></li><li><a href="/blog-peru.php">El Blog</a></li><li><a href="/becas-peru.php">Bolsa Becas</a></li><li><a href="/sitemap.php">Mapa del Sitio</a></li><li><a href="/quienessomos.php">Quiénes Somos</a></li><li><a href="/newsletter.php">Suscríbete al Boletín</a></li></ul>
+<div class="cc"><ins class="adsbygoogle ads" data-ad-channel="0337178826" data-ad-client="ca-pub-9703374939060795" data-ad-slot="3774332204" data-ad-format="auto" data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+</div>
+<br class="clr"><br><hr><div class="subnote rr clr">(©) 2005 - 2022 - UniversidadPeru - <a href="/privacy-policy.php">Condiciones de Uso / Privacidad</a></div><br><br><br>
+</div>
+</body>
+</html>
